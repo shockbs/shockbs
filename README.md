@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**pherngpy/pherngpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=pherngpy&style=flat-square&color=blueviolet)
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m the owner of [Gale](https://www.gale.gq)
 - 🌱 I’m smart and friendly
