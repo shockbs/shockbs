@@ -8,7 +8,7 @@ all my projects was private nothing yoi can do here
 ![Profile views](https://komarev.com/ghpvc/?username=shockbs&style=flat-square&color=blueviolet)
 ![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shockbs&show_icons=true&theme=react)![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shockbs&show_icons=true&theme=tokyonight&layout=compact)
 
-- nope
+im now in the crypto world bye
 
 
 
